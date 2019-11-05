@@ -194,7 +194,7 @@
  }
 
  .signature table {
-  font-family:arial, Verdana;font-size: 14px; line-height: 14px;
+  font-family:arial, Verdana;font-size: 14px;
   margin:0;padding:0;
   text-align: left;
  }
@@ -206,15 +206,15 @@
   .logo-td2{width:5px;}
   .right-top-td{margin:0;padding:0; line-height: 1.4em;}
   .right-table{border:none;text-decoration:none;font-size:14px;color:#b0b0b0;border-collapse:collapse;-webkit-text-size-adjust:none;}
-  .name-span{font-size:1.2em;color:#000;}
-  .cred-span{font-size:1.25em;color:#919191;}
+  .name-span{font-size:1.4em;color:#000;}
+  .cred-span{font-size:1.4em;color:#919191;}
   .position-span{color:#919191;}
   .company-span{color:#575454; font-weight: 500;}
   .web-span{ color:#A4A4A4; font-size: 16px;}
   .web-span, a,a:visited{color:#A4A4A4;text-decoration: none;}
   .iso-span{ color:#A4A4A4; font-size: 12px;}
-  .spacer{background:none; border:solid 2px #f26522; border-width: 0 2px 0 0; height:2px; margin: 0px 5px 0px 5px;}
-  .brand-color{background:none; color: #f26522;}
+  .spacer{background:none; border:solid 2px rgb(224, 55, 55); border-width: 0 2px 0 0; height:2px; margin: 0px 5px 0px 5px;}
+  .brand-color{background:none; color: rgb(224, 55, 55);}
   .phone-letter{color:#000;}
   .no-dec{border:none;text-decoration:none;}
   .phone-number{border:none;color:#919191;text-decoration:none;}

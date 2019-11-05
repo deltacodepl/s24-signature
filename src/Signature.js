@@ -40,13 +40,13 @@ class  Signature extends Component {
 						{/* Address  */}
 						<tr>
 							<td className="inner-td">
-								<span className="company-span">Achilles Polska Sp. z o.o.<span className="brand-color">|</span> Siedziba Główna</span> <br/> <span className="company-span">ul. M. Płażyńskiego 6 <span className="brand-color">|</span> 83-020 Cedry Wielkie</span>
+								<span className="company-span">Segregatory24 Sp. z o.o. </span> <br/> <span className="company-span">ul. M. Płażyńskiego 6 <span className="brand-color">|</span> 83-020 Cedry Wielkie</span>
 							</td>
 						</tr>
 
 						<tr>
 							<td className="inner-td">
-								<span className="company-span">tel. +48 58 683 60 30</span>
+								<span className="company-span">tel. +48 58 683 60 50</span>
 							</td>
 						</tr>
 					</tbody>	
@@ -60,11 +60,11 @@ class  Signature extends Component {
 		{/* Company Name */}
 		<tr className="color-tr">
 				<td width="600" style={{"textAlign":"left"}}>
-								<span className="web-span">www.achilles.pl</span>
-								<span className="spacer">&nbsp;</span>
 								<span className="web-span">www.segregatory24.pl</span>
 								<span className="spacer">&nbsp;</span>
-								<span className="web-span">www.uszlachetnianiedruku.pl</span>		
+								<span className="web-span">www.opakowaniareklamowe.pl</span>
+								<span className="spacer">&nbsp;</span>
+										
 				</td>
 		</tr>
 		
@@ -73,25 +73,15 @@ class  Signature extends Component {
 				</tr>
 	</tbody>		
 </table>
-		<a href="https://youtu.be/J9qATv4aCjQ" target="_blank">
-        <img src="http://cdn.achilles.pl/foliow.png" style={{"marginTop":"5px", "marginBottom":"5px"}} /></a>
+
 		<table width="600" id="sig3" cellSpacing="0" cellPadding="0" style={{"borderSpacing":"0"}}>
 			<tbody>	
 			{/* Company Name */}
 			<tr className="color-tr">
 				<td className="inner-td">
-					<span className="company-span"><img src="http://cdn.achilles.pl/stopka.png" /></span>
+					<a href="http://segregatory24.pl"><span className="company-span"><img src="http://cdn.segregatory24.pl/stopka.png" /></span></a>
 				</td>
-				<td className="inner-td" style={{"textAlign":"right"}}>
-					<span className="iso-span">ISO 9001:2015
-							<a href="http://www.sgs.com/certifiedclients"><img src="http://cdn.achilles.pl/SGS_ISO 9001_TCL_LR.jpg" width="50px" /></a>
-					</span>
-				</td>
-				<td className="inner-td" style={{"textAlign":"rigth"}}>
-					<span className="iso-span">ISO 22000: 2005
-							<a href="http://www.sgs.com/certifiedclients"><img src="http://cdn.achilles.pl/SGS_ISO 22000_TCL_LR.jpg" width="50px"/></a>
-					</span>
-				</td>
+				
 			</tr>
 			</tbody>	
 		</table>
@@ -108,10 +98,10 @@ class  Signature extends Component {
 				<tr width="600">
 						<td style={{"wordWrap": "break-word", "background":"none", "border":"none", "margin":"0px 0px 0px 0px",
                         "padding":"0"}}>
-								<span style={{"fontSize":"12px", "color": "#A4A4A4", "textAlign":"justify"}}>Achilles Polska Sp. z o.o. ul. M.Płażyńskiego 6, 83-020 Cedry Wielkie<br/>
+								<span style={{"fontSize":"12px", "color": "#A4A4A4", "textAlign":"justify"}}>Segregatory24 Sp. z o.o. ul. M.Płażyńskiego 6, 83-020 Cedry Wielkie<br/>
 								Spółka zarejestrowana w rejestrze przedsiębiorców Krajowego Rejestru Sądowego prowadzonego przez Sąd
 								Rejonowy Gdańsk – Północ w Gdańsku VII Wydział Gospodarczy Krajowego Rejestru Sądowego.
-								KRS 0000000622. NIP: 583-27-15-203. Kapitał Zakładowy: 2.280.000 PLN</span>
+								KRS: 0000808911 NIP: 604-02-15-218 REGON: 384632751 Kapitał zakładowy: 50.000 PLN</span>
 						</td>
 				</tr>
 			</tbody>	

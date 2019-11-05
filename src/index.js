@@ -10,7 +10,7 @@ ReactDOM.render(
                     theme = ''
                     name = 'Name'
                     title = 'Title'
-                    email = 'admin@achilles.pl'
+                    email = 'admin@segregatory24.pl'
                     telephone = '+48 583 60 30'
                     properties = {properties}
                 />,

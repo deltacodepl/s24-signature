@@ -11,7 +11,7 @@ ReactDOM.render(
                     name = 'Name'
                     title = 'Title'
                     email = 'admin@segregatory24.pl'
-                    telephone = '+48 583 60 30'
+                    telephone = '+48 583 60 50'
                     properties = {properties}
                 />,
                 document.getElementById('root'));
